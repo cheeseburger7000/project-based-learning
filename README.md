@@ -356,6 +356,8 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build A Simple Web App With Flask](https://pythonspot.com/flask-web-app-with-python/)
 - [Build a RESTful API with Flask – The TDD Way](https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way)
 - [Create A Django API in under 20 minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
+- [Build Python web app using flask and docker - Medium](https://medium.com/swlh/build-python-web-application-using-flask-and-docker-1e38cfa12f22)
+- [install docker-compose and run simple app](https://www.atjiang.com/install-docker-compose-and-run-simple-app/)
 
 ### Bots:
 
