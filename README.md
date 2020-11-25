@@ -359,6 +359,12 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Build Python web app using flask and docker - Medium](https://medium.com/swlh/build-python-web-application-using-flask-and-docker-1e38cfa12f22)
 - [install docker-compose and run simple app](https://www.atjiang.com/install-docker-compose-and-run-simple-app/)
 
+```bash
+- follow container log and load each 10 line from the container
+$ docker-compose logs -f --tail 10 <container_name>
+$ kubectl logs -f --tail 100 -n <namespace_name> <container_name>
+```
+
 ### Bots:
 
 - [Build a Reddit Bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
