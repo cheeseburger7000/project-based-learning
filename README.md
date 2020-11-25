@@ -365,6 +365,10 @@ $ docker-compose logs -f --tail 10 <container_name>
 $ kubectl logs -f --tail 100 -n <namespace_name> <container_name>
 ```
 
+- [Docker for beginner - Docker Docs](https://github.com/docker/labs/tree/master/beginner)
+- [Dockerfile](https://docs.docker.com/engine/reference/builder/)
+- [Docker compose file](https://docs.docker.com/compose/compose-file/)
+
 ### Bots:
 
 - [Build a Reddit Bot](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
